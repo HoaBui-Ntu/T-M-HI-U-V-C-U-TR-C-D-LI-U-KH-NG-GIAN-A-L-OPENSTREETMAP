@@ -6,3 +6,4 @@ Thuộc tính của các lớp dữ liệu và định dạng dữ liệu trên 
 Công cụ hỗ trợ nghiên cứu.
 Phương pháp thu thập dữ liệu: Overpass API, Plugin QuickOSM của QGIS, tải bộ dữ liệu trên Geofabrik, sử dụng ngôn ngữ Python trên GG Colab.
 Các bước tiền xử lý dữ liệu.
+Thực hiện xây dựng Topology giao thông xuất các 2 file cạnh và điểm để phục vụ cho bài toán tìm đường đi ngắn nhất
